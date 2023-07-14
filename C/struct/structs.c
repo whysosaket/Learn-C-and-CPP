@@ -27,6 +27,11 @@ int main(){
     printDetails(player1);
     printDetails(player2);
 
+    // we can also assign this details using
+    struct Player player3 = {"Rolly", 77};
+    printDetails(player3);
+    
+
     // printf("%s has %d points.\n", player1.name, player1.score);
     // printf("%s has %d points.\n", player2.name, player2.score);
 
