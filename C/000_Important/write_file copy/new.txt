@@ -1,0 +1,2 @@
+Writing through a function
+Appending through a function
