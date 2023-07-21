@@ -1,0 +1,6 @@
+Pointers
+
+- Pointers are basicallly addresses of variables.
+- In the system memory, each process is stored inside of a stack.
+- In say, int a , a is the virtual address while it's pointer will be the physical address.
+- 
